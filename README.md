@@ -22,4 +22,6 @@ you'll get an **number** for the quadrant.
 - 8 Over the negative axis ordinate
 - 9 on the origin
 
-See an example in [fiddle](http://jsfiddle.net/rafaelfernandezgis/1Lgxqp01/2/)
+
+
+See an example in [fiddle](http://jsfiddle.net/rafaelfernandezgis/d81cccde/)
