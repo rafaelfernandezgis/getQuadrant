@@ -2,7 +2,7 @@
 
 Geometrically, this straightforward function tells us what quadrant the vector is found.
 - The function is written in JavaScript.
-- It works fine using cartesian coordinates. I tried it in EPSG: 3857 and other projected systems as well.
+- It works fine using cartesian coordinates. I tried it in EPSG: 3857 too. It works fine in local distances . For any other projected systems it worked fine as well.
 
 All what you need is to pass these arguments: xEnd, yEnd, xOri, yOri
 - xEnd: _second point which defines the line. Coordinate X_
